@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EfficientGraphCut", "EfficientGraphCut\EfficientGraphCut.vcxproj", "{725B637E-22A2-45CF-8672-20433B2EE831}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725B637E-22A2-45CF-8672-20433B2EE831}.Debug|Win32.ActiveCfg = Debug|Win32
+		{725B637E-22A2-45CF-8672-20433B2EE831}.Debug|Win32.Build.0 = Debug|Win32
+		{725B637E-22A2-45CF-8672-20433B2EE831}.Release|Win32.ActiveCfg = Release|Win32
+		{725B637E-22A2-45CF-8672-20433B2EE831}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
