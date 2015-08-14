@@ -11,5 +11,5 @@ This is an implement of the efficient graph cut algorithm.
 
 ## Reference
 [1]P. F. Felzenszwalb and D. P. Huttenlocher, â€œEfficient 
-Graph-Based Image Segmentation,â€? International Journal of 
-Computer Vision, vol. 59, no. 2, pp. 167â€?181, Sep. 2004.
+Graph-Based Image Segmentation,â€ International Journal of 
+Computer Vision, vol. 59, no. 2, pp. 167â€“181, Sep. 2004.
